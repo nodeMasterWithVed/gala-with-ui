@@ -1,1 +1,1 @@
-# gala-with-ui:The awesome gallary app, experiemts are helpful to learn
+# gala-with-ui:The awesome gallary app, experiemts multiple are helpful to learn
